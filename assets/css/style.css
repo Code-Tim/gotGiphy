@@ -1,0 +1,40 @@
+body {
+    background-image: url("../images/wwe.jpg");
+    /* background-color: #cccccc; */
+   }
+
+.jumbotron { 
+    /* width:480px;
+    height:480px;    
+     */
+    background: #e0ffc7 url("../images/wweLogo.jpg")  center center;  
+    background-repeat: no-repeat;
+    background-size: 1110px 286px;
+  }
+
+  .wrapper {
+      text-align: center;
+      /* color: var(--main-txt-color); */
+      color: goldenrod;
+      margin-top: 42px
+      ;
+  }
+
+  #form {
+      color: azure;
+    }
+    
+    #input {
+        color: azure;
+        background-color: black;
+    }   
+    
+    h5 {
+        background-color: black;
+    }
+    
+    p {
+        color: azure;
+        background-color: black;
+        margin-right: 1036px;
+    }
